@@ -12,10 +12,10 @@ I'm an **ML Platform Engineer** at **Dream11**, where I focus on building robust
 ---
 
 ### 🛠️ **Tech Stack**
-- **Languages**: Python, Java, Scala
-- **Frameworks**: Apache Spark, Ray, TensorFlow
-- **Tools & Platforms**: Kubernetes, Docker, Hadoop, Airflow
-- **Cloud**: AWS, GCP, Azure
+- **Languages**: Python, Golang, Java
+- **Frameworks**: Apache Spark, Ray, RayDP
+- **Tools & Platforms**: Kubernetes, Docker, Airflow
+- **Cloud**: AWS, GCP
 
 ---
 
