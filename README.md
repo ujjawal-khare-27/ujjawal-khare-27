@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Ujjawal Khare
 
-<!--
-**ujjawal-khare-27/ujjawal-khare-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **ML Platform Engineer** at **Dream11**, where I focus on building robust backend systems and infrastructure for large-scale machine learning platforms. My expertise spans across **big data processing**, **AI frameworks**, and **cloud-native solutions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **What I Do**
+- **Big Data & AI Frameworks**: Working with tools like **Apache Spark** and **Ray** to handle massive data and complex workloads efficiently.
+- **Infrastructure Engineering**: Leveraging **Kubernetes (K8s)** and other cloud-native technologies to support scalable, reliable, and efficient data pipelines.
+- **End-to-End Solutions**: Designing and implementing systems that power ML and data platforms, ensuring seamless performance.
+
+---
+
+### 🛠️ **Tech Stack**
+- **Languages**: Python, Java, Scala
+- **Frameworks**: Apache Spark, Ray, TensorFlow
+- **Tools & Platforms**: Kubernetes, Docker, Hadoop, Airflow
+- **Cloud**: AWS, GCP, Azure
+
+---
+
+### 🚀 **What I'm Currently Exploring**
+- Advanced **distributed computing** techniques for ML workloads.
+- Enhancing scalability and efficiency in **big data pipelines**.
+- Researching new **AI frameworks** to optimize heavy data processing workloads.
+
+---
+
+### 🎯 **Connect with Me**
+- **LinkedIn**: [Ujjawal Khare](https://www.linkedin.com/in/ujjawal-khare-30b95b147/)
+
+---
+
+Let's build something amazing together 🚀!
